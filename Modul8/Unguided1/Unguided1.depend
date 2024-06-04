@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672215832 source:d:\semester1\alpro\unguided1\main.cpp
+	<iostream>
+
+1672395175 source:d:\semester1\praktikumalpro\modul8\unguided1\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<algorithm>
+	<string>
+

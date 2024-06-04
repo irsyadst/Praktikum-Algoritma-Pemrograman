@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666582141 source:d:\praktikum alpro\latihan4\main.cpp
+	<iostream>
+	<conio.h>
+
+1666850281 source:d:\praktikumalpro\modul2\latihan4\main.cpp
+	<iostream>
+	<conio.h>
+
